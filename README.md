@@ -129,7 +129,7 @@ Tokens are required for all the Task API calls (passed in headers in all APIs).
 
 // If the token is expired
 {
-    "error": "Please Login Again...""
+    "error": "Please Login Again..."
 }
 ```
 ## POST /task
